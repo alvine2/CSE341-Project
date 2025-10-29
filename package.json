@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alvine2/CSE341-Project/issues"
   },
-  "homepage": "https://github.com/alvine2/CSE341-Project#readme"
+  "homepage": "https://github.com/alvine2/CSE341-Project#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
